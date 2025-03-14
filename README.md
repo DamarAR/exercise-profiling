@@ -1,10 +1,10 @@
 # Screenshots of Jmeter Before Optimization
-![all-student-request Before.png](Images/all-student-request%20Before.png)
-![all-student-name Before.png](Images/all-student-name%20Before.png)
-![highestGPA Before.png](Images/highestGPA%20Before.png)
-![T all-student-request before.png](Images/T%20all-student-request%20before.png)
-![T all-student-name before.png](Images/T%20all-student-name%20before.png)
-![T highest gpa before.png](Images/T%20highest%20gpa%20before.png)
+![all-student-request Before.png](Images/all-student-request%20before.jpg)
+![all-student-name Before.png](Images/all-student-name%20before.jpg)
+![highestGPA Before.png](Images/highest-gpa%20before.jpg)
+![T all-student-request before.png](Images/T%20all-student-request%20before.jpg)
+![T all-student-name before.png](Images/T%20all-student-name%20before.jpg)
+![T highest gpa before.png](Images/T%20highest-gpa%20before.jpg)
 
 # Screenshots of Jmeter After Optimization
 ![all-student-request after.png](Images/all-student-request%20after.png)
@@ -12,7 +12,7 @@
 ![highest-gpa after.png](Images/highest-gpa%20after.png)
 ![T all-student-request after.png](Images/T%20all-student-request%20after.png)
 ![T all-student-name after.png](Images/T%20all-student-name%20after.png)
-![T highest gpa after.png](Images/T%20highest%20gpa%20after.png)
+![T highest gpa after.png](Images/T%20highest-gpa%20after.png)
 
 # Conclusion
 After using IntelliJ Profiler to fine-tune our code, we ran a follow-up round of performance tests with JMeter to compare against our initial measurements. The second set of tests confirmed that our efforts successfully addressed the performance bottlenecks. By offloading intensive computations, optimizing database queries, and eliminating redundant method calls, the application now performs significantly better under load.
